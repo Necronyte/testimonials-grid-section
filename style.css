@@ -1,0 +1,45 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.background{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-start;
+    height: auto;
+    min-height: 100vh;
+    background-color: hsl(214, 17%, 92%);
+}
+
+.daniel{
+    position: relative;
+    width: 500px;
+    height: 250px;
+    padding: 20px;
+    border-radius: 10px;
+    background-color: hsl(263, 55%, 52%);
+    margin-top: 200px;
+    margin-right: 700px;
+    padding: 30px;
+}
+
+.foto{
+    margin-left: 300px;
+    margin-top: -29px;
+}
+
+.foto2{
+    position: absolute;
+    width: 40px;
+    border: 3px solid hsl(264, 82%, 80%);
+    border-radius: 30px;
+    left: 25px;
+}
+
+.name{
+    margin-top: -70px;
+    margin-left: 50px;
+}
