@@ -350,7 +350,12 @@
         display: block;
     }
 
-    .foto2,
+    .foto2{
+        width: 30px; 
+        top: 15px; 
+        left: 15px;
+    }
+
     .foto3,
     .foto4,
     .foto5,
