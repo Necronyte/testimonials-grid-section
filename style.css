@@ -24,10 +24,11 @@
     margin-top: 200px;
     margin-right: 700px;
     padding: 30px;
+    box-shadow: 0px 15px 40px rgba(0, 0, 0, 0.2);
 }
 
 .foto{
-    margin-left: 300px;
+    margin-left: 400px;
     margin-top: -29px;
 }
 
@@ -63,7 +64,7 @@
 
 .daniel .paragraph1{
     margin-top: 13px;
-    color: white;
+    color: hsl(214, 17%, 92%);
     font-size: 20px;
     font-family: "Figtree", sans-serif;
     font-optical-sizing: auto;
@@ -90,6 +91,7 @@
     background-color: hsl(224, 10%, 45%);
     margin-left: 400px;
     border-radius: 10px;
+    box-shadow: 0px 15px 40px rgba(0, 0, 0, 0.2);
 }
 
 .foto3{
@@ -122,3 +124,270 @@
     margin-top: 5px;
 }
 
+.jonathan .paragraph3{
+    margin-top: 15px;
+    color: hsl(214, 17%, 92%);
+    font-size: 20px;
+    font-family: "Figtree", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 600;
+    font-style: normal;
+}
+
+.jonathan .paragraph4{
+    margin-top: 10px;
+    font-size: 12px;
+    color: hsl(0, 0%, 81%);
+    font-family: "Figtree", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 500;
+    font-style: normal;
+}
+
+.kira{
+    position: relative;
+    padding: 30px;
+    margin-top: -270px;
+    height: 600px;
+    width: 300px;
+    background-color: white;
+    margin-left: 1200px;
+    border-radius: 10px;
+    box-shadow: 0px 15px 40px rgba(0, 0, 0, 0.2);
+}
+
+.foto4{
+    width: 40px;
+    border: 3px solid hsl(264, 82%, 80%);
+    border-radius: 30px;
+}
+
+.kira .name3{
+    margin-top: -40px;
+    margin-left: 65px;
+    color: hsl(217, 19%, 35%);
+    font-family: "Figtree", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 600;
+    font-style: normal;
+    font-size: 13px;
+}
+
+.kira .graduate3{
+    margin-left: 65px;
+    color: hsl(217, 19%, 35%);
+    font-size: 10px;
+    font-family: "Figtree", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 500;
+    font-style: normal;
+    margin-top: 5px;
+}
+
+.kira .paragraph5{
+    margin-top: 15px;
+    color: hsl(219, 29%, 14%);
+    font-size: 20px;
+    font-family: "Figtree", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 600;
+    font-style: normal;
+}
+
+.kira .paragraph6{
+    margin-top: 20px;
+    font-size: 14px;
+    color: hsl(224, 10%, 45%);
+    font-family: "Figtree", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 500;
+    font-style: normal;
+}
+
+.jeanette{
+    position: relative;
+    padding: 30px;
+    margin-top: -275px;
+    height: 270px;
+    width: 300px;
+    background-color: white;
+    margin-right: 1000px;
+    border-radius: 10px;
+    box-shadow: 0px 15px 40px rgba(0, 0, 0, 0.2);
+}
+
+.foto5{
+    width: 40px;
+    border: 3px solid hsl(264, 82%, 80%);
+    border-radius: 30px;
+}
+
+.jeanette .name4{
+    margin-top: -40px;
+    margin-left: 65px;
+    color: hsl(217, 19%, 35%);
+    font-family: "Figtree", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 600;
+    font-style: normal;
+    font-size: 13px;
+}
+
+.jeanette .graduate4{
+    margin-left: 65px;
+    color: hsl(217, 19%, 35%);
+    font-size: 10px;
+    font-family: "Figtree", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 500;
+    font-style: normal;
+    margin-top: 5px;
+}
+
+.jeanette .paragraph7{
+    margin-top: 15px;
+    color: hsl(219, 29%, 14%);
+    font-size: 20px;
+    font-family: "Figtree", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 600;
+    font-style: normal;
+}
+
+.jeanette .paragraph8{
+    margin-top: 20px;
+    font-size: 14px;
+    color: hsl(224, 10%, 45%);
+    font-family: "Figtree", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 500;
+    font-style: normal;
+}
+
+.patrick{
+    position: relative;
+    width: 600px;
+    height: 270px;
+    padding: 20px;
+    border-radius: 10px;
+    background-color: hsl(219, 29%, 14%);
+    margin-top: -267px;
+    margin-left: 120px;
+    padding: 30px;
+    box-shadow: 0px 15px 40px rgba(0, 0, 0, 0.2);
+}
+
+.foto6{
+    width: 40px;
+    border: 3px solid hsl(264, 82%, 80%);
+    border-radius: 30px;
+}
+
+.patrick .name5{
+    margin-top: -40px;
+    margin-left: 65px;
+    color: hsl(214, 17%, 92%);
+    font-family: "Figtree", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 600;
+    font-style: normal;
+    font-size: 13px;
+}
+
+.patrick .graduate5{
+    margin-left: 65px;
+    color: hsl(214, 17%, 92%);
+    font-size: 10px;
+    font-family: "Figtree", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 500;
+    font-style: normal;
+    margin-top: 5px;
+}
+
+.patrick .paragraph9{
+    margin-top: 15px;
+    color: hsl(214, 17%, 92%);
+    font-size: 18px;
+    font-family: "Figtree", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 600;
+    font-style: normal;
+}
+
+.patrick .paragraph10{
+    margin-top: 20px;
+    font-size: 12px;
+    color: hsl(214, 17%, 92%);
+    font-family: "Figtree", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 500;
+    font-style: normal;
+}
+
+@media screen and (max-width: 768px) {
+    .background {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: flex-start;
+        padding: 20px;
+    }
+
+    .daniel,
+    .jonathan,
+    .kira,
+    .jeanette,
+    .patrick {
+        width: 90%;
+        margin: 20px 0;
+        height: auto;
+    }
+
+    .foto {
+        margin-left: auto;
+        margin-right: auto;
+        display: block;
+    }
+
+    .foto2,
+    .foto3,
+    .foto4,
+    .foto5,
+    .foto6 {
+        width: 50px;
+        height: 50px;
+    }
+
+    .name,
+    .name2,
+    .name3,
+    .name4,
+    .name5 {
+        font-size: 14px;
+        text-align: center;
+    }
+
+    .graduate,
+    .graduate2,
+    .graduate3,
+    .graduate4,
+    .graduate5 {
+        text-align: center;
+        font-size: 12px;
+    }
+
+    .paragraph1,
+    .paragraph2,
+    .paragraph3,
+    .paragraph4,
+    .paragraph5,
+    .paragraph6,
+    .paragraph7,
+    .paragraph8,
+    .paragraph9,
+    .paragraph10 {
+        font-size: 14px;
+        text-align: center;
+    }
+}
